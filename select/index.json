@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆめまぼろし",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-08T04:43:29.312771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめまぼろし",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめまぼろし_MIMI.txt"
+    }
+  ]
+}
